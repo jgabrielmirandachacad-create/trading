@@ -1,0 +1,6 @@
+ccxt
+matplotlib
+pandas
+ipykernel
+scikit-learn
+tensorflow
